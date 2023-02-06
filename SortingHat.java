@@ -19,10 +19,10 @@ public class SortingHat {
 				cod.append("**");
 			}
 
-			String easy = "It's so easy!";
-			String hard = "It's so hard...";
-			String maybe = "Mmmm...you're perfect for all houses!But...";
-			String confused = "I don't know...";
+			String easy = "è molto facile!";
+			String hard = "è molto difficile...";
+			String maybe = "Mmmm...sei perfetto per tutte le case!But...";
+			String confused = "non saprei...";
 			int rand = randomRange(NUMERO_CASE);
 			
 			switch(rand){
